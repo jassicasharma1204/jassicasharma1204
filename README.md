@@ -8,7 +8,7 @@ Currently specializing in FastAPI development and Machine Learning pipelines.
 
 Backend & ORM - Python, FastAPI, SQLAlchemy, REST APIs
 Data Science & ML - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
-DatabasesPostgreSQL, MySQL, SQL
+Databases - PostgreSQL, MySQL, SQL
 QA & Tools - Postman (API Testing), Apache JMeter (Load Testing) Tools , GitHub, VS Code, Jupyter Notebook / lab
 ---
 
