@@ -1,36 +1,17 @@
 # Hi, I'm Jassica Sharma 👋
 
-🎓 Final Year BTech Student in CSE-AI
-💡 Interested in Artificial Intelligence, Data Science, and Analytics
-📊 Currently learning how to analyze data and build intelligent systems
-🚀 Goal: Become an AI / Data Science Engineer
-
+Final-year B.Tech CSE (AI) student focused on building scalable backend systems and data-driven AI solutions.
+Currently specializing in FastAPI development and Machine Learning pipelines.
 ---
 
 ## 💻 Skills
 
-**Programming & Tools**
-* Python
-* MySQL
-
-**Data Science Libraries**
-* NumPy
-* pandas
-
-**Currently Learning**
-* Matplotlib
-* scikit-learn
-* Data Visualization
-* Machine Learning basics
-
+Backend & ORM - Python, FastAPI, SQLAlchemy, REST APIs
+Data Science & ML - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+DatabasesPostgreSQL, MySQL, SQL
+QA & Tools - Postman (API Testing), Apache JMeter (Load Testing) Tools , GitHub, VS Code, Jupyter Notebook / lab
 ---
 
-## 📊 What I'm Working On
-
-* Practicing data analysis using Python and pandas
-* Learning NumPy for numerical computing
-* Exploring data visualization with Matplotlib
-* Building beginner data science projects
 
 ---
 
@@ -65,11 +46,13 @@ Key Tech: Python, Pandas, NumPy, Seaborn.
 Visuals: Produced 15+ visualizations, including heatmaps and time-series plots.
 
 
-🐍 Python & Full-Stack Development
-MicroVest: AI-Enabled Micro-Investment and Crowdfunding Platform
-Goal: Developing an end-to-end investment and crowdfunding platform for a final year project.
-Key Tech: FastAPI, PostgreSQL, Redis, Celery.
-Features: Implemented asynchronous task management and robust registration modules.
+🐍 Python & Backend Development
+
+MicroVest: AI-Enabled Micro-Investment Platform
+Role: Lead Backend Developer for a final-year FinTech project.
+Architecture: Built a high-performance REST API using FastAPI and managed complex data relations with SQLAlchemy ORM.
+Key Achievement: Implemented asynchronous database operations with PostgreSQL, ensuring non-blocking I/O for concurrent user transactions.
+Security: Integrated robust data validation using Pydantic and secure configuration management via environment variables.
 
 *(More projects coming soon!)*
 
