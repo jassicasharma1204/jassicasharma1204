@@ -57,11 +57,19 @@
 
 ## 📂 Projects
 
-Here are some of the projects I’m working on:
+📊 Data Analysis
 
-* Data Cleaning and Exploratory Data Analysis
-* NumPy Practice Exercises
-* Data Visualization with Matplotlib
+Exploratory Data Analysis - COVID-19 Dataset 
+Goal: Performed comprehensive EDA on a dataset with 100K+ records to identify global trends and anomalies.
+Key Tech: Python, Pandas, NumPy, Seaborn.
+Visuals: Produced 15+ visualizations, including heatmaps and time-series plots.
+
+
+🐍 Python & Full-Stack Development
+MicroVest: AI-Enabled Micro-Investment and Crowdfunding Platform
+Goal: Developing an end-to-end investment and crowdfunding platform for a final year project.
+Key Tech: FastAPI, PostgreSQL, Redis, Celery.
+Features: Implemented asynchronous task management and robust registration modules.
 
 *(More projects coming soon!)*
 
