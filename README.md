@@ -1,70 +1,51 @@
-# Hi, I'm Jassica Sharma 👋
+# Jassica Sharma
+**Final-year B.Tech CSE (AI) Student** *Building scalable backend systems and data-driven AI solutions.*
 
-Final-year B.Tech CSE (AI) student focused on building scalable backend systems and data-driven AI solutions.
-Currently specializing in FastAPI development and Machine Learning pipelines.
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
 
-Backend & ORM - Python, FastAPI, SQLAlchemy, REST APIs
+* **Backend & ORM:** Python, FastAPI, SQLAlchemy, REST APIs
+* **Data Science & ML:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+* **Databases:** PostgreSQL, MySQL, SQL
+* **Tools & QA:** Postman, Apache JMeter, GitHub, VS Code, Jupyter Notebook
 
-Data Science & ML - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
-
-Databases - PostgreSQL, MySQL, SQL
-QA & Tools - Postman (API Testing), Apache JMeter (Load Testing) Tools , GitHub, VS Code, Jupyter Notebook / lab
 ---
 
+## 🧪 Professional Experience
+
+### **QA Intern**
+* **API Testing:** Validated request/response behavior using **Postman**.
+* **Performance:** Conducted load testing via **JMeter** to evaluate system stability.
+* **Reliability:** Executed manual testing and documented bugs to improve software quality.
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Exploratory Data Analysis – COVID-19
+* **Scope:** Performed EDA on **100K+ records** using Python, Pandas, and NumPy.
+* **Insight:** Generated **15+ visualizations** (heatmaps, time-series) using Seaborn to identify global trends.
+
+### 🐍 MicroVest – AI-Enabled Micro-Investment Platform
+* **Role:** Lead Backend Developer (Final Year Project).
+* **Tech Stack:** FastAPI, SQLAlchemy, PostgreSQL, Pydantic.
+* **Key Achievement:** Implemented **asynchronous database operations** to handle concurrent user transactions efficiently.
 
 ---
 
 ## 🧠 Areas of Interest
 
-* Artificial Intelligence
-* Machine Learning
-* Data Analysis
-* Data Visualization
-
----
-
-## 🧪 Previous Experience
-
-**QA Intern**
-
-* Performed **API testing using Postman** to validate request and response behavior
-* Conducted **load and performance testing using JMeter** to evaluate system performance under traffic
-* Executed **manual testing** to identify functional issues and ensure application reliability
-* Reported bugs and documented test results to improve software quality
-
-
----
-
-## 📂 Projects
-
-📊 Data Analysis
-
-Exploratory Data Analysis - COVID-19 Dataset 
-Goal: Performed comprehensive EDA on a dataset with 100K+ records to identify global trends and anomalies.
-Key Tech: Python, Pandas, NumPy, Seaborn.
-Visuals: Produced 15+ visualizations, including heatmaps and time-series plots.
-
-
-🐍 Python & Backend Development
-
-MicroVest: AI-Enabled Micro-Investment Platform
-Role: Lead Backend Developer for a final-year FinTech project.
-Architecture: Built a high-performance REST API using FastAPI and managed complex data relations with SQLAlchemy ORM.
-Key Achievement: Implemented asynchronous database operations with PostgreSQL, ensuring non-blocking I/O for concurrent user transactions.
-Security: Integrated robust data validation using Pydantic and secure configuration management via environment variables.
-
-*(More projects coming soon!)*
+* Artificial Intelligence & Machine Learning
+* Data Visualization & Analysis
+* FinTech Backend Architecture
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/jassicasharma1204
-* LinkedIn: www.linkedin.com/in/jassicasharma
+* **GitHub:** [github.com/jassicasharma1204](https://github.com/jassicasharma1204)
+* **LinkedIn:** [linkedin.com/in/jassicasharma](https://www.linkedin.com/in/jassicasharma)
 
 ---
-
-⭐ *Currently learning and building projects in Data Science and AI.*
+*Currently learning and building in the Data Science and AI space.*
