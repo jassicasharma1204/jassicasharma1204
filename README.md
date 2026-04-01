@@ -1,5 +1,5 @@
 # Jassica Sharma
-**Final-year B.Tech CSE (AI) Student** *Building scalable backend systems and data-driven AI solutions.*
+**Final-year B.Tech CSE (AI) Student** *Building backend apis and data-driven AI solutions.*
 
 ---
 
@@ -30,7 +30,8 @@
 ### 🐍 MicroVest – AI-Enabled Micro-Investment Platform
 * **Role:** Lead Backend Developer (Final Year Project).
 * **Tech Stack:** FastAPI, SQLAlchemy, PostgreSQL, Pydantic.
-* **Key Achievement:** Implemented **asynchronous database operations** to handle concurrent user transactions efficiently.
+* **Key Achievement:** Implemented async FastAPI endpoints with SQLAlchemy and PostgreSQL
+to support concurrent user transactions.
 
 ---
 
